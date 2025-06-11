@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vFadlan011
-- 👀 I’m interested in cyber security x programming
-- 🌱 I’m currently learning backend stuff
-- 📫 Contect me at fadlanabduh@gmail.com
+# 👋 Hi, I’m Fadlan A.
+- 🌐 fadlanabduh.com
+- 📫 Contact me at fadlanabduh@gmail.com
+- 🎓 Currently studying mechatronics engineering
